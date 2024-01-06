@@ -1,5 +1,7 @@
 name: flutter_image_format
 description: Get image format by Magic Numbers
+homepage: https://github.com/woodjobber/flutter_image_format.git
+
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
